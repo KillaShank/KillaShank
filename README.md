@@ -63,7 +63,12 @@
 </tr>
 </tbody>
 </table>
-
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KillaShank&show_icons=true&theme=radical" />
+</a>
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillaShank&layout=compact&theme=radical" />
+</a>
 
 
 If you like the Repository give it a :star: and also follow me on GitHub.
