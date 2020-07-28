@@ -63,6 +63,7 @@
 </tr>
 </tbody>
 </table>
+If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KillaShank&show_icons=true&theme=radical" />
 </a>
@@ -71,4 +72,4 @@
 </a>
 
 
-If you like the Repository give it a :star: and also follow me on GitHub.
+
