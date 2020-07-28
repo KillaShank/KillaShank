@@ -65,10 +65,10 @@
 </table>
 If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KillaShank&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KillaShank&show_icons=true&theme=highcontrast" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillaShank&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillaShank&layout=compact&theme=highcontrast" />
 </a>
 
 
