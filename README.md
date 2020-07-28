@@ -32,21 +32,16 @@
 <span><b><center>Apache</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/640px-Apache_Software_Foundation_Logo_%282016%29.svg.png"> 
 </td>
-</tr>
-
-<tr>
 <td align="center" width="20%">
 <span><b><center>Objective C & C++</center></b></span> 
 <img height=55px src="https://financesonline.com/uploads/2019/08/Microsoft-Visual-Studio-logo1.png"> 
 </td>
-
+</tr>
+<tr>
 <td align="center" width="20%">
 <span><b><center>Azure</center></b></span> 
 <img height=69px src="https://ktconnections.com/images/easyblog_articles/658/b2ap3_large_microsoft-azure-500x500.png"> 
 </td>
-
-
-
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
 <img height=60px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
@@ -60,18 +55,11 @@
 <span><b><center>PHP</center></b></span> 
 <img height=55px src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png"> 
 </td>
-</tr>
-
-
-
-<tr>
  <td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1920px-MongoDB-Logo.svg.png"> 
 </td>
-
 </tr>
-
 </tbody>
 </table>
 
