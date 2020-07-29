@@ -1,10 +1,12 @@
 <h3> ❄️ ### Hello World!!👋, I am Sankalp Verma</h3>
-[Website](https://killashank.tech)
+*[Website](https://killashank.tech/)
 
 
 * Im a third-year student of Vellore Institute Of Technology pursuing in Information Technology.
 
 * I am a Technical Manager at Technology And Gaming CLUB - VIT Vellore.
+
+* I have experience in the field of Frontend Development, Backend Development, SQL and NonSQL Databases, Heroku etc.💻
 
 * Connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/sankalp-verma-9b9b921a0/)
 
