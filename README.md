@@ -2,11 +2,9 @@
 [Website](https://killashank.tech)
 
 
-* Im a third-year student of Vellore Institute Of Technology in Information Technology.
+* Im a third-year student of Vellore Institute Of Technology pursuing in Information Technology.
 
 * I am a Technical Manager at Technology And Gaming CLUB - VIT Vellore.
-
-* I love to contribute to Open-Source Community.
 
 * Connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/sankalp-verma-9b9b921a0/)
 
