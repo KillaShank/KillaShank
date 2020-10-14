@@ -4,7 +4,7 @@
 
 * Im a third-year student of Vellore Institute Of Technology pursuing in Information Technology.
 
-* I am a Technical Manager at Technology And Gaming CLUB - VIT Vellore.
+* I am General Secretary at Technology And Gaming CLUB - VIT Vellore.
 
 * I have experience in the field of Frontend Development, Backend Development, SQL and NonSQL Databases, Heroku etc.💻
 
