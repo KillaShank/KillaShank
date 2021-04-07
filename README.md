@@ -1,4 +1,4 @@
-<h3> ❄️ ### Hello World!!👋, I am Sankalp Verma</h3>
+<h3> ❄️ Hello World!!👋, I am Sankalp Verma</h3>
 <h4><a href="https://killashank.tech/">Personal Website</a></h4>
 
 
