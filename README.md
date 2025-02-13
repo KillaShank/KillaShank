@@ -71,5 +71,8 @@ If you like the Repository give it a :star: and also follow me on GitHub.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillaShank&layout=compact&theme=merko" />
 </a>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3473583" style='border:none;'></iframe>
+
+
 
 
